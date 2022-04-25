@@ -1,0 +1,43 @@
+body{
+    background-image: url(payment.jpg);
+}
+.payment{
+    text-align: center;
+    font-size: x-large;
+    align-items: center;
+    font-weight:bold;
+    border-radius: 25px;
+    border: 3px solid #3911ca;
+    width: 350px;
+    height: 540px;
+    margin: auto;
+    background-image: linear-gradient(rgb(157, 214, 235) ,rgb(4, 69, 245));
+}
+.card{
+    float: left;
+}
+.box{
+    line-height: 25px;
+    size: 35px;
+}
+
+.pay{
+    color: white;
+    text-align: center;
+    size: 30px;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-shadow: #666;
+}
+.submit{
+    margin: auto;
+    display: block;
+    width: 100px;
+    height: 35px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: rgb(234, 29, 29);
+    color: rgb(10, 9, 9);
+    box-shadow: #666;
+}
+.submit:hover {background-color: #17eb3e}
